@@ -1,4 +1,4 @@
-# Understanding the Web
+# Module 3: Understanding the Web
 
 ## Goal
 
