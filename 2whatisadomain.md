@@ -1,4 +1,4 @@
-# What is a Domain?
+# Module 2: What is a Domain?
 
 ## Goal
 
