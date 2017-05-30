@@ -1,4 +1,4 @@
-# Digital Identity
+# Module 1: Digital Identity
 
 ## Goal
 
