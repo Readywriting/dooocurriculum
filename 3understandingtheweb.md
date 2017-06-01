@@ -31,3 +31,5 @@ Beyond the specific example of Google, the technology that underpins the Web gen
 ## Customize it!
 
 In addition to (or instead of) searching themselves this week, you could also ask students to conduct a search around a particular topic you’re studying in class. Take the opportunity to discuss how information is created in your discipline, how it becomes digital, and how search results privilege particular voices or perspectives within your field.
+
+All materials in this repository are lisenced [CC BY-NC-SA 3.0 US](https://creativecommons.org/licenses/by-nc-sa/3.0/us/)
