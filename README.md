@@ -9,4 +9,4 @@ If you are new to Github, check out [Kris Shaffer's Github for Academics](http:/
 
 Any questions? Please get in touch at [dtlt@umw.edu](mailto:dtlt@umw.edu).
 
-All materials in this repository are lisenced [CC BY-NC-SA 3.0 US](https://creativecommons.org/licenses/by-nc-sa/3.0/us/)
+All materials in this repository are licensed [CC BY-NC-SA 3.0 US](https://creativecommons.org/licenses/by-nc-sa/3.0/us/)
