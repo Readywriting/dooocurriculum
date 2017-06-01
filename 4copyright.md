@@ -33,3 +33,5 @@ We want students to understand the work that goes into creating various media on
 ## Customize it!
 
 Have students search specifically for an image that represents a topic that you are talking about in class. Incorporate what they find into another assignment or activity.
+
+All materials in this repository are lisenced [CC BY-NC-SA 3.0 US](https://creativecommons.org/licenses/by-nc-sa/3.0/us/)
