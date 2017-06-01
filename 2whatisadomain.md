@@ -29,3 +29,4 @@ Choosing a domain name isn’t as easy as it sounds; the students need to choose
 
 Choose a domain for your class, class project, your residence hall, or some other organization or club students are involved with. Why would you make that particular choice?
 
+All materials in this repository are lisenced [CC BY-NC-SA 3.0 US](https://creativecommons.org/licenses/by-nc-sa/3.0/us/)
