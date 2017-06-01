@@ -6,4 +6,4 @@ By the end of the time frame, once the readings and activity are completed, ther
  
 Instructors are invited to add/remove questions and readings, as well as to change the ordering, and to tie the module topic to class topics as appropriate!
  
-All materials in this repository are licensed [CC BY-NC-SA 3.0 US](https://creativecommons.org/licenses/by-nc-sa/3.0/us/)
+Copyright 2017 UMW DTLT. All materials in this repository are licensed [CC BY-NC-SA 4.0 US](https://creativecommons.org/licenses/by-nc-sa/4.0/)
