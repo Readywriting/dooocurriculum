@@ -38,3 +38,5 @@ During class discussion, some students may challenge the idea that these search 
 ## Customize it!
 
 Compare the images and language used to describe white defendants in media coverage versus defendants from other ethnic groups. If these news stories are the stuff that feeds the algorithms, what impact does this coverage have on how we view race on the Internet?
+
+All materials in this repository are lisenced [CC BY-NC-SA 3.0 US](https://creativecommons.org/licenses/by-nc-sa/3.0/us/)
