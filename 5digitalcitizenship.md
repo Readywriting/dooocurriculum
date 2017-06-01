@@ -30,3 +30,5 @@ During class discussion for this activity, you should try to push students to th
 ## Customize it!
 
 Write a “terms of use” statement for the class, both face-to-face and online interactions.
+
+All materials in this repository are lisenced [CC BY-NC-SA 3.0 US](https://creativecommons.org/licenses/by-nc-sa/3.0/us/)
