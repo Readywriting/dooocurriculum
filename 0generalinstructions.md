@@ -6,6 +6,4 @@ By the end of the time frame, once the readings and activity are completed, ther
  
 Instructors are invited to add/remove questions and readings, as well as to change the ordering, and to tie the module topic to class topics as appropriate!
  
-Resources:
-For faculty -- Division of Teaching and Learning Technologies dtlt@umw.edu
-For students -- Digital Knowledge Center dkc.umw.edu 
+All materials in this repository are lisenced [CC BY-NC-SA 3.0 US](https://creativecommons.org/licenses/by-nc-sa/3.0/us/)
