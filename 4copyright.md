@@ -34,4 +34,4 @@ We want students to understand the work that goes into creating various media on
 
 Have students search specifically for an image that represents a topic that you are talking about in class. Incorporate what they find into another assignment or activity.
 
-All materials in this repository are licensed [CC BY-NC-SA 3.0 US](https://creativecommons.org/licenses/by-nc-sa/3.0/us/)
+Copyright 2017 UMW DTLT. All materials in this repository are licensed [CC BY-NC-SA 4.0 US](https://creativecommons.org/licenses/by-nc-sa/4.0/)
