@@ -11,8 +11,8 @@ Mis-representation can be postive and negative. Catfishing v. Role Playing
 
 ## Suggested Readings
 
-1. [Locking Down Your Digital Identity] (https://femtechnet.org/csov/lock-down-your-digital-identity/)
-2. [Facebook as Catfish Paradise: Its Community Standards Wears the Cone of Shame]http://cogdogblog.com/2015/10/facebook-as-catfish-paradise-its-community-standards-wears-the-cone-of-shame/
+1. [Locking Down Your Digital Identity](https://femtechnet.org/csov/lock-down-your-digital-identity/)
+2. [Facebook as Catfish Paradise: Its Community Standards Wears the Cone of Shame](http://cogdogblog.com/2015/10/facebook-as-catfish-paradise-its-community-standards-wears-the-cone-of-shame/)
 3. [Women and Minorities as Targets of Attack Online](https://www.nytimes.com/roomfordebate/2014/08/19/the-war-against-online-trolls/women-and-minorities-as-targets-of-attack-online?referer=https://www.google.com/&nytmobile=0)
 4. [Online identity: is authenticity or anonymity more important?](https://www.theguardian.com/technology/2012/apr/19/online-identity-authenticity-anonymity)
 5. [4chan's Overlord Christopher Poole Reveals Why He Walked Away](http://www.rollingstone.com/culture/features/4chans-overlord-christopher-poole-reveals-why-he-walked-away-20150313)
